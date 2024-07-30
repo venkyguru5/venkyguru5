@@ -3,7 +3,8 @@
 
 🚀 Hey GitHub Enthusiasts ! Here is VENKY From Planet Earth 🌏 How Are You Mate !
 
-## Languages & Tools
+<h2 align="center"><img src="Assests/code.gif" height="20"/>  My Tech Stack  <img src="Assests/code.gif" height="20"/></h2>
+
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,git,r" />
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,mongodb,python,typescript,docker,kubernetes,graphql" />
