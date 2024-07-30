@@ -10,8 +10,7 @@
     <img src="https://skillicons.dev/icons?i=java,aws,arch,arduino,bash,blender,cpp,gcp,ubuntu " />
     <br>
 </div>
-<h2 align ="center">⚡️Stats⚡️</h2>
-<!--Github Profile Stats--->
+
     
 <h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> My GitHub Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"></h2>
 
