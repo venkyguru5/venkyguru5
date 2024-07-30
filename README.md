@@ -3,7 +3,7 @@
 
 🚀 Hey GitHub Enthusiasts ! Here is VENKY From Planet Earth 🌏 How Are You Mate !
 
-<h2 align="center"><img src="Assests/code.gif" height="20"/>  My Tech Stack  <img src="Assests/code.gif" height="20"/></h2>
+<h2 align="center"><img src="https://github.com/Atharvkote/Atharvkote/blob/main/Assests/code.gif?raw=true" height="20"/>  My Tech Stack  <img src="https://github.com/Atharvkote/Atharvkote/blob/main/Assests/code.gif?raw=true" height="20"/></h2>
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,git,r" />
