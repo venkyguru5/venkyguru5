@@ -1,7 +1,7 @@
 ![logo](header.png)
 <h1 align ="center">Hi There😉</h1>
 
-🚀 Hey GitHub Enthusiasts ! Here is Sam From Planet Earth 🌏 How Are You Mate !
+🚀 Hey GitHub Enthusiasts ! Here is VENKY From Planet Earth 🌏 How Are You Mate !
 
 ## Languages & Tools
 <div align="center">
